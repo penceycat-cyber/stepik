@@ -1,9 +1,7 @@
 123
-
+commit test
 456
 
-<<<<<<< HEAD
-=======
 789
->>>>>>> 322ca6ce6e4c1b6834de311eb26f1f43e7b1f4f5
+
 Add line
